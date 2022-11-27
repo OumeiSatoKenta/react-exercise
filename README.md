@@ -1,2 +1,3 @@
 # react-exercise
-Created with CodeSandbox
+- Reactの練習で作ったアプリ。カウントアップし、３の倍数の時だけ顔を表示させる
+- React 17
